@@ -1,25 +1,3 @@
-Array_Object01.js
-Who has access
-
-System properties
-Type
-Javascript
-Size
-2 KB
-Storage used
-2 KBOwned by Modding The World
-Location
-Javascript
-Creator
-me
-Modified
-12:16 PM by me
-Opened
-11:01 PM by me
-Created
-12:16 PM
-Add a description
-Viewers can download
 /* Array and Object
  09/09/2021
 
